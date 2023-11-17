@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\user\\source\\repos\\Project2\\Project2\\Project2.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\user\\source\\repos\\Project2\\Project2\\Project2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\user\\source\\repos\\Project2\\Project2\\Project2.csproj",
+        "projectName": "Project2",
+        "projectPath": "c:\\Users\\user\\source\\repos\\Project2\\Project2\\Project2.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\user\\source\\repos\\Project2\\Project2\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.Build": {
+              "target": "Package",
+              "version": "[17.8.3, )"
+            },
+            "Microsoft.Build.Utilities.Core": {
+              "target": "Package",
+              "version": "[17.8.3, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
